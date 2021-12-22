@@ -1,4 +1,4 @@
-- 👋 Hi, Send e-mail (rangkast@gmail.com)
+- 👋 e-mail (rangkast@gmail.com)
 
 <!---
 rangkast/rangkast is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
